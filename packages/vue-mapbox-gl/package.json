@@ -46,7 +46,7 @@
   },
   "peerDependencies": {
     "@mapbox/mapbox-gl-geocoder": "^5.0.1",
-    "mapbox-gl": "^github:zitscher/mapbox-gl-js",
+    "mapbox-gl": "github:zitscher/mapbox-gl-js",
     "vue": "^3.2.37"
   }
 }
